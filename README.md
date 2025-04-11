@@ -35,8 +35,6 @@ The **AI IN A BOX** is a multi-functional tool that integrates with a Large Lang
 ## Project Structure
 
 ```
-LLM_logger_project/
-│
 ├── LLM_CLI_FILEACCESS/
 │   ├── sandbox/
 │   │   ├── read.txt
