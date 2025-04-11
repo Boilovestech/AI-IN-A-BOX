@@ -3,7 +3,7 @@
 
 The **AI IN A BOX** is a multi-functional tool that integrates with a Large Language Model (LLM) to perform various file operations and interact with its environment,uses virtual environments.
 ---
-!box-open-solid.svg
+![Preview](box-open-solid.svg)
 ## Features
 
 ### 1. **File Operations**
